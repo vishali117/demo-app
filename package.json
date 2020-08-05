@@ -2,7 +2,7 @@
   "name": "demo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vishali117.github.io/react-demo-app",
+  "homepage": "https://vishali117.github.io/demo-app",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
@@ -14,7 +14,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-flip-move": "^3.0.4",
-    
+
     "react-scripts": "3.4.1"
   },
   "scripts": {
